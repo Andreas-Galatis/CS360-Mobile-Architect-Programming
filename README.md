@@ -1,6 +1,6 @@
 # CS360-Mobile-Architect-Programming
 
-# Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?  
+## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?  
 
 As part of Mobile2App’s initiative to Develop and launch a fully functional mobile application, the team launched a weight tracking app. The weight tracking app will be an invaluable tool in setting goals, logging weight progress, and monitoring trends for users. 
 
